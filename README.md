@@ -39,7 +39,7 @@ git checkout -- readme.md (丢弃工作区的修改)
 git reset HEAD readme.md (由暂存区返回到工作区)
 ```
 
-![图片对比](D:\soft\Git\学习资料\img\1.jpg)
+![图片对比](.\img\1.jpg)
 
 
 
@@ -70,7 +70,7 @@ git clone https://github.com/SouthGU/CloneTest.git (克隆)
 git branch
 ````
 
-<img src="D:\soft\Git\学习资料\img\2.png" style="zoom: 150%;" />
+<img src=".\img\2.png" style="zoom: 150%;" />
 
 
 
@@ -78,7 +78,7 @@ git branch
 git checkout -b dev (创建并切换，相当于 git branch dev 和git checkout dev)
 ```
 
-<img src="D:\soft\Git\学习资料\img\3.png" style="zoom:150%;" />
+<img src=".\img\3.png" style="zoom:150%;" />
 
 
 
@@ -88,7 +88,7 @@ git commit -am "dev分支上修改内容"
 git checkout master (切换回master，但还未合并，所以readme.md显示的是master原本的内容)
 ```
 
-<img src="D:\soft\Git\学习资料\img\4.png" style="zoom:150%;" />
+<img src=".\img\4.png" style="zoom:150%;" />
 
 
 
