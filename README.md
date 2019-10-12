@@ -39,7 +39,7 @@ git checkout -- readme.md (丢弃工作区的修改)
 git reset HEAD readme.md (由暂存区返回到工作区)
 ```
 
-![图片对比](.\img\1.jpg)
+![图片对比](./img/1.jpg)
 
 
 
