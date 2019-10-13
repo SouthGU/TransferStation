@@ -39,7 +39,9 @@ git checkout -- readme.md (丢弃工作区的修改)
 git reset HEAD readme.md (由暂存区返回到工作区)
 ```
 
-![图片对比](.\img\1.jpg)
+> ***提示：图片注意斜杆方向 --> ///***
+
+![图片对比](./img/1.jpg)
 
 
 
@@ -147,4 +149,8 @@ git pull origin dev --allow-unrelated-histories (不能直接下载，需要指�
 git branch --set-upstream-to=origin/dev dev (设置链接)
 git pull (下载最新代码，显示冲突后手动解决即可)
 ```
+
+
+
+PS：[学习网址](http://wiki.jikexueyuan.com/project/git-tutorial/)
 
