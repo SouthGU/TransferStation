@@ -59,7 +59,7 @@ git checkout -- readme.md (删错本机文件，将暂存区的文件恢复至�
 
 ```
 Github创建远程仓库
-git remote add origin https://giuhub.com/SouthGU/SSH.git (关联)
+git remote add origin https://github.com/SouthGU/SSH.git (关联)
 git push -u origin master (推送到远程仓库)
 git clone https://github.com/SouthGU/CloneTest.git (克隆)
 ```
